@@ -1,4 +1,4 @@
 # mdweb
 Home for my raw markdown files
 
-[Test Link](setup.md)
+[Test Link](digest-2026-10-21.md)
