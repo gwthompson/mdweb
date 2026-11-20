@@ -5,5 +5,5 @@ Home for my raw markdown files
 
 [Test Link 2](./freshrss-digest-2026-10-21.md)
 
-[[First mdweb test]]
+[[First mdweb test]]()
 
