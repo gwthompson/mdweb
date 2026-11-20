@@ -5,5 +5,5 @@ Home for my raw markdown files
 
 [Test Link 2](./freshrss-digest-2026-10-21.md)
 
-Test update from Obsidian
+[[First mdweb test]]
 
