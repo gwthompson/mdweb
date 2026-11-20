@@ -1,3 +1,6 @@
+---
+title: Gary Thompson
+---
 # Gary's Markdown server
 Home for my raw markdown files
 
