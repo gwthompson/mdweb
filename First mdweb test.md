@@ -1,4 +1,4 @@
-November 19, 2026
+Thursday, November 19, 2026
 
 # First mdweb test
 
