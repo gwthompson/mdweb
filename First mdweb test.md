@@ -3,7 +3,7 @@ title: First mdweb test
 ---
 Thursday, November 19, 2026
 
-# First mdweb test
+# {{page.title}}
 
 This is very interesting what Dave Winer is doing with BonBon which is a Markdown browser.
 
