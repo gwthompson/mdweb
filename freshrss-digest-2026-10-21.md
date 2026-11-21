@@ -1,4 +1,7 @@
-# FreshRSS digest · 2d (2026-10-21)
+---
+title: freshrss-digest-2026-10-21
+---
+# {{page.title}}
 
 49 unread articles · 20 feeds · top feeds: TheHill (12), Political Wire (10), 9to5Mac/The Verge/Ars (3 each)
 
