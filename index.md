@@ -9,6 +9,10 @@ What I am doing is slowly building a collection of markdown files that I can edi
 The way it works is through an Obsidian plugin that syncs all of my md files with the Github repo so they can be served by pages. The only drawback at the moment is Pages won't allow an .md be a default page but that's alright for now especially since it is free hosting. 😎
 
 I’m testing using the DInkus markdown editor.
+And it works.
+I have written a shell script to sync the changes to Github which works well.
+Now I need to automate the sync.
+😎
 
 [Test Link](./digest-2026-10-21.md)
 
