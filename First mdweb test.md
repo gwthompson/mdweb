@@ -7,6 +7,7 @@ Thursday, November 19, 2026
 
 This is very interesting what Dave Winer is doing with BonBon which is a Markdown browser.
 
-* First item 
-* Second item 
-* Third item
+- First item
+- Second item
+- Third item
+- Fourth item
