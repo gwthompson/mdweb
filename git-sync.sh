@@ -8,7 +8,7 @@ if ! git rev-parse --is-inside-work-tree > /dev/null 2>&1; then
 fi
 
 # Get commit message from argument, or prompt for one, or default to a timestamp
-MSG="$1"
+MSG=$(date '+%Y-%m-%d %H:%M:%S')
 if [ -z "$MSG" ]; then
   read -p "Commit message (leave blank for timestamp): " MSG
 fi
