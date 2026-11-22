@@ -15,6 +15,7 @@ Now I need to automate the sync.
 😎
 
 I’ll start with a cron job but I’d like to trigger it with a command key if possible.
+I just created an Automator script to run my shell script.
 
 [Test Link](./digest-2026-10-21.md)
 
