@@ -17,7 +17,7 @@ Now I need to automate the sync.
 I’ll start with a cron job but I’d like to trigger it with a command key if possible.
 I just created an Automator script to run my shell script as a service and have added a keyboard shortcut to run it.
 
-I've realized that Obsidian is still a better editor for me because of all the additional things that can be done and autoimated.
+I've realized that Obsidian is still a better editor for me because of all the additional things that can be done and automated.
 
 [Test Link](./digest-2026-10-21.md)
 
