@@ -14,6 +14,8 @@ I have written a shell script to sync the changes to Github which works well.
 Now I need to automate the sync.
 😎
 
+I’ll start with a cron job but I’d like to trigger it with a command key if possible.
+
 [Test Link](./digest-2026-10-21.md)
 
 [Test Link 2](./freshrss-digest-2026-10-21.md)
