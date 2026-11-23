@@ -17,5 +17,14 @@
       ],
       "key": "S"
     }
+  ],
+  "obsidian-timestamper:obsidian-custom-timestamp": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "D"
+    }
   ]
 }

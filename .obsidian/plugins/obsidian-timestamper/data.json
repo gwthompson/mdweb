@@ -1,7 +1,7 @@
 {
   "timeStampFormat": "hh:mm:ss",
   "dateStampFormat": "dddd, MMMM D, YYYY",
-  "lastFormat": "",
+  "lastFormat": "dddd, MMMM DD, YYYY",
   "localeFormat": "en",
   "newLine": true
 }
